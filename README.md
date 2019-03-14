@@ -1,3 +1,11 @@
-A simple personal blog that has one blog post for now! Only the first post found in the landing page has some content, the rest are just placeholder information. 
+Simple Website built for mobile & responsive
 
-Inspired by the templates by Material Kit Pro from Creative Tim and Clean Blog from Start Bootstrap
+Contains:
+1. Blog page with limited entries
+2. Profile page
+3. Contact form
+
+Future:
+1. Use Netlify to deploy this site instead of GitHub Pages.
+2. Upgrade to SPA and use React
+3. Have some fancy animations to showcase to zeng the page even further.
